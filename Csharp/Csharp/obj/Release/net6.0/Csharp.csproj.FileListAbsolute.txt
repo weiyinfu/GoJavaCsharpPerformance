@@ -1,0 +1,15 @@
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/bin/Release/net6.0/Csharp
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/bin/Release/net6.0/Csharp.deps.json
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/bin/Release/net6.0/Csharp.runtimeconfig.json
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/bin/Release/net6.0/Csharp.dll
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/bin/Release/net6.0/ref/Csharp.dll
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/bin/Release/net6.0/Csharp.pdb
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/obj/Release/net6.0/Csharp.csproj.AssemblyReference.cache
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/obj/Release/net6.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/obj/Release/net6.0/Csharp.AssemblyInfoInputs.cache
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/obj/Release/net6.0/Csharp.AssemblyInfo.cs
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/obj/Release/net6.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/obj/Release/net6.0/Csharp.dll
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/obj/Release/net6.0/ref/Csharp.dll
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/obj/Release/net6.0/Csharp.pdb
+/Users/bytedance/Desktop/Github/GoJavaCsharpPerformance/Csharp/Csharp/obj/Release/net6.0/Csharp.genruntimeconfig.cache

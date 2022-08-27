@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25deb890_002Dcc07_002D4620_002D844e_002D20d62e96c10f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Demo02 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::6642EFF9-BF28-401B-96A9-4DD2C947E942::net6.0::Demo01PrintTable.Demo02&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a0dea9a2_002Dd3c2_002D4664_002D977d_002D5e19000a3d2d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Demo02" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::6642EFF9-BF28-401B-96A9-4DD2C947E942::net6.0::Demo01PrintTable.Demo02&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6642EFF9-BF28-401B-96A9-4DD2C947E942::net6.0::Demo01PrintTable.MainClass.Run&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6642EFF9-BF28-401B-96A9-4DD2C947E942::net6.0::Demo01PrintTable.Haha.Run&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
