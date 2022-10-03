@@ -11,3 +11,5 @@ yarn-error.log
 *.lock
 package-lock.json
 .pytest_cach
+obj/
+bin/
